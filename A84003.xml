@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands summons: or, Londons alarum from Heaven. With a caveat to all cities, towns, counties, and families in the same. / Collected by J.W.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84003</idno><idno type="EEBO-CITATION">45578368</idno>
+  <idno type="VID">172293</idno>
+  <idno type="EEBO-PROQUEST">2240917245</idno>
+  
+            <idno type="STC">Wing E3055</idno>
+            <idno type="STC">ESTC R176716</idno>
+            <idno type="OCLC">45578368</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84003)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172293)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2624:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands summons: or, Londons alarum from Heaven. With a caveat to all cities, towns, counties, and families in the same. / Collected by J.W.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson, at the sign of the Bible in Giltspur-street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Judgment of God.</term>
+               <term type="topical_term">Repentance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172293:1"/>
+            <p>Englands Summons: OR, LONDONS ALARUM FROM HEAVEN.</p>
+            <p>With a Caveat to all Cities, Towns, Coun<g ref="char:EOLhyphen"/>ties, and Families in the same.</p>
+            <p>Collected by J. W.</p>
+            <figure>
+               <figDesc>emplem of two hands holding sword and whip descending out of fiery heavens</figDesc>
+               <p>Repent</p>
+            </figure>
+            <p>LONDON, Printed for <hi>W. Gilbertson,</hi> at the sign of the Bible in Giltspur-street. 1650.</p>
+         </div>
+         <div type="explanation_of_emblem">
+            <pb facs="tcp:172293:2"/>
+            <pb n="1" facs="tcp:172293:2"/>
+            <head>THE EXPLANATION of the Emblem.</head>
+            <p>BEhold the Emblem, and consider what hangs over thy head (Oh <hi>England</hi>) with all thy fruitfull Counties, glorious Cities, and pleasant Townes.</p>
+            <p>The Trumpet sounds a Summons from Heaven, and bids us to repent. The Sword drawne, signifies Gods vengeance, (as we have partly felt already) and when it will be sheathed none but the Lord doth know. The three-fold Scourge signifieth War, Famine; and the Pestilence, of which likewise wee have already had a portion, and (without Gods great Mercy,) it is likely to continue and increase for our Iniquities. The flames signifies the wrath of God, as he destroyed <hi>Sodome</hi> and <hi>Gomorah,</hi> with other Cities, being also a Memento of the Latter Day, &amp;c,</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="2" facs="tcp:172293:3"/>
+            <head>Englands Summons; Or, Londons Alarm from Heaven.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Earch your selves, even search you, O Nation, not worthy to be be<g ref="char:EOLhyphen"/>loved, before the decree come forth and you be as chaffe that passeth on a day, <hi>Zeph.</hi> 2.1, 2.</hi>
+            </p>
+            <p>
+               <hi>The pride of thy heart hath deceiveved thee, thou that dwellest in the clefts of the Rockes, whose inhabitants is high, that saith in his heart Who shall bring mee downe to the ground? though thou exalt thy selfe as an Eagle, and though thou set thy nest among the Starres, thence will I bring thee down, saith the Lord, <hi>Obad.</hi> 3.4.</hi>
+            </p>
+            <p>
+               <hi>For I will gather all Nations against Jerusa<g ref="char:EOLhyphen"/>lem to battell, and the City shall be taken, and the houses rifled, and the women ravished, and halfe the Citie shall goe forth into captivitie. <hi>Zach.</hi> 14.2.</hi>
+            </p>
+            <pb n="3" facs="tcp:172293:3"/>
+            <p>
+               <hi>And suddenly shall the sowne places appeare unsowne, the full Store-houses shall suddenly be found empty: And the Trumpet shall give a sound, which when every man heareth, they shall suddenly be afraid: At that time shall friends fight one against another like enemies, and the earth shall stand in feare, with those that dwell therein, 2 <hi>Esdras</hi> 6.22, 23, 24.</hi>
+            </p>
+            <p>
+               <hi>For the Sword and their destruction draw<g ref="char:EOLhyphen"/>eth nigh, and one people shall stand up to fight against another, and swords in their hands; for there shal be sedition among men, and invading one another; they shall not regard their Kings nor Princes, and the course of their actions shall stand in their power, 2 <hi>Esdr.</hi> 15.15, 16, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Now is the Ax laid unto the root of the tree, every Tree therefore not bringing forth good Fruit, is hewne downe and cast into the fire, <hi>Luke</hi> 3.9.</hi>
+            </p>
+            <p>
+               <hi>Make no tarrying to turne unto the Lord; Neither put it off from day to day, for sud<g ref="char:EOLhyphen"/>denly shall the wrath of the Lord breake forth, and in thy security thou shalt be destroyed, and thou shalt perish in time of vengeance, <hi>Eccles.</hi> 5.7.</hi>
+            </p>
+            <p>
+               <hi>Wherefore (as the Holy Ghost saith) to day, if ye shal hear his voice, harden not your hearts; yea, this day, if yee heare his voyce harden not your hearts, <hi>Heb.</hi> 3.7, 8. &amp; 4.7.</hi>
+            </p>
+            <pb n="4" facs="tcp:172293:4"/>
+            <p> Therefore now, oh now remember fruitfull and pleasant <hi>England,</hi> and ye famous Cities and Townes, which like so many rich and glo<g ref="char:EOLhyphen"/>rious Diamonds embrodered, and garnished the garment of your Nation in every Shire and County; You <hi>that had a Land that flowed with Milke and Honey; being a Land of brookes of Waters, and Fountains, and depths that spring out of Valleyes and Hills; a Land of Wheat and Barley; &amp; Wines and Fig-trees, &amp;c. Built good<g ref="char:EOLhyphen"/>ly houses; thy Heards and Flocks multiply, with thy silver and gold, &amp;c. But beware that thou forget not the Lord thy God, in not keeping his Commandements and his Judgements, &amp;c.</hi>
+            </p>
+            <p>Oh wretched sinners that we are that delay<g ref="char:EOLhyphen"/>eth the amendment of our wicked lives by our incredulity: For surely if wée did beléeve those things which are written in the sacred Scripture <hi>of the judgement to come, of the voyce of the Arch-Angell, and Trumpet of Cod: of the Tri<g ref="char:EOLhyphen"/>bunall feare of Christ. before which we must all appeare, of the paines of the reprobate, of the endlesse condition and felicity of the righteous: of the Resurrection to come of Body and Soule, to an assured part either of Glory or shame:</hi> did wée believe these things? surely I am perswa<g ref="char:EOLhyphen"/>ded wée would stustie to live after another sort, and not defer the amendment of our lives as wée doe from day to day.</p>
+            <pb n="5" facs="tcp:172293:4"/>
+            <p> Remember that at the last Day our reco<g ref="char:EOLhyphen"/>nings must be cast up, we shall be called to an account, <hi>we live here in the sight of God and Man;</hi> and therefore wée ought with St <hi>Paul,</hi> herein exercise our selves, <hi>that we may have a good Conscience, void of offence towards God and toward man. Act. 24.16.</hi>
+            </p>
+            <p>But we now live in all voluptuousnesse and (I believe that) all the sins that ever raigned upon the face of the Earth doth now abound both in City and Country, but especially in this City: Never was there more Pride, Ambition, base Flattery, Drunkennesse, Blasphemy, Luxurie, Deceit, Avarice, In-justice, Prodigality, Mur<g ref="char:EOLhyphen"/>ther, and Perjury: but true Religion (amongst two many) not regarded.</p>
+            <p>These sinnes, with a number more, fills the Land full of Treasons, the Subjects full of im<g ref="char:EOLhyphen"/>piety, and in the end, may ruinate a State, and batter down the walls of swéet Peace, (if pro<g ref="char:EOLhyphen"/>vidence in time prevent not so foule a mischief) That Common-wealth is most miserable, that hath her Foes within her selfe: and now mode<g ref="char:EOLhyphen"/>sty and civility are changed into all manner of dissolution and vanity.</p>
+            <p>As for Charity, that is banished the Land, witnesse the lamentable cries of the poore dayly presented to our eyes and eares, who are ready
+<pb n="6" facs="tcp:172293:5"/>to starve for lack of food: <hi>But know, that wee ought not to turne our eye from the poore, but be carefull of them: And he that stoppeth his eares at the cry of the poor, shall cry himself, and not be heard. We ought to give to the poore cheerfully, and not to dispise them, have we not al one Father, hath not one God made us? 1 Cor 9.7. Why doth every one despise his own bro<g ref="char:EOLhyphen"/>ther, (saith Malachi 2.) And S. John saith, God is charity, and he that dweleth in charity, dwel<g ref="char:EOLhyphen"/>leth in God, and God in him.</hi>
+            </p>
+            <p>Then let not the fire of Zeale drink up the dew and moisture of Charity, as the fire from Heaven dried up the water at <hi>Eliahs</hi> Sacrifice, <hi>1 King. 18.38.</hi> Nor let not Sacrifice turn mercy out of doors, as <hi>Sara</hi> did <hi>Agar, Gen. 21.14.</hi> But remember the spéech of our Savior in <hi>Matthew,</hi> to those on the right hand, wher he saith, <hi>Com ye blessed of my Father, inherit the Kingdom pre<g ref="char:EOLhyphen"/>pared for you, from the fondation of the world For I was an hungred, and ye gave me meat. I was thirsty, and ye gave me drink; I was a stran<g ref="char:EOLhyphen"/>ger, and ye took me in; naked, and ye clothed me; I was sick, and ye visited me; I was in pri<g ref="char:EOLhyphen"/>son, and ye came unto me, &amp;c. Mat. 25.34 35, 36. In as much as ye have done it to one of the least of these my Brethren, ye have done it unto me.</hi> But I am afraid there are too many on the left hand, that hath done none of these things, to
+<pb n="7" facs="tcp:172293:5"/>whom Christ said, <hi>In as much as yee did it not to one of the least of these, yee did it not to me. And these shall goe away into everlasting pu<g ref="char:EOLhyphen"/>nishment; but the Righteous into life eter<g ref="char:EOLhyphen"/>nall, <hi>vers.</hi> 45, 47.</hi>
+            </p>
+            <p>O <hi>England,</hi> both Shires, Cities and Towns, there be too many false Brethren fostered in your bosome; Wolves clothed in Lambskins, that doe séem, by the precisenesse of their habit, and demurenesse of their behaviour, to be truly mor<g ref="char:EOLhyphen"/>tified to the World; They will reprove sin, re<g ref="char:EOLhyphen"/>fraine from swearing, celebrate the Sabboth. yea many houre of the wéek-daies in hearing of the Word, labouring (if they like the Minister) to digest it into their memories by penning and conference: In a word, they will pretend a great deale of faire and religious dealing, and séeme to be Gods white Children, but they are little better then black Divels transformed in<g ref="char:EOLhyphen"/>to Angels of light, <hi>2 Cor. 11.14.</hi>
+            </p>
+            <p>These are they that make Religion a cloake, wearing Christs Livery for their own conveni<g ref="char:EOLhyphen"/>ency, that so they may the more safely and un<g ref="char:EOLhyphen"/>suspectedly compasse their secret and unsacred end; For there are none that are more unjust in their dealings, none more covetous, deceit<g ref="char:EOLhyphen"/>full, full of pride, hatred malice, and all uncha<g ref="char:EOLhyphen"/>ritablenesse then they: For Hypocrites seeme to seek God in trouble, but not from the heart,
+<pb n="8" facs="tcp:172293:6"/>and séeme Godly, but their deeds bewray them.</p>
+            <p>And thus doth Hypocrisie flourish, to the great reproach of sincere Professours: For wee may observe that all ungodlinesse hath advanced it selfe and taken heart in our Nation. Iniquity hath put on a brow of Brasse, and impiety like a shamelesse Strumpet, attended by Impudency, hoth taken up her standing in every street and corner of City. Town and Country: It is al<g ref="char:EOLhyphen"/>most impossible to relate the sinnes and wicked<g ref="char:EOLhyphen"/>nesse that raigne in this Land: Thus ungodli<g ref="char:EOLhyphen"/>nesse is become a contagious Leproste, it hath infected and runne over the whole body of this Land, and no part more then this City; inso<g ref="char:EOLhyphen"/>much that it may truly be said of us, as the Pro<g ref="char:EOLhyphen"/>phet of the Iewes; <hi>We are a sinfull people la<g ref="char:EOLhyphen"/>den with Iniquity: The whole head is sick, the whole heart is heavie, from the sole of the foot to the crown of the head, there is nothing whole therein, but wounds and swellings, and sores full of corruption. Isa. 1.4.5.6.</hi>
+            </p>
+            <p>Alas poore <hi>England,</hi> thou hast cause to be<g ref="char:EOLhyphen"/>moane thy selfe; <hi>For the eyes of the wicked shall faile, and their refuge shall perish, and their hope shall be sorrow of mind; his owne counsell shall cast him down, his rejoycing is but short, and the joy of an Hypocrite is but a moment; For the wickeds light shall be ta<g ref="char:EOLhyphen"/>ken away, they are snared in the works of their
+<pb n="9" facs="tcp:172293:6"/>own hands.</hi> Therefore we ought to look about us, the dangers are many wherewith our sin<g ref="char:EOLhyphen"/>full Nation is threatned; God hath often fore<g ref="char:EOLhyphen"/>warned us, and given us gentle corrections; but we amend not our lives: But let us know that God is just in all his wayes the eye of hea<g ref="char:EOLhyphen"/>ven is alwayes open he will bring all our deeds of darknesse to light, though we think to con<g ref="char:EOLhyphen"/>ceale them from him and the World: Let <hi>A<g ref="char:EOLhyphen"/>dam</hi> lurke never so much among the Trees of the Garden of <hi>Eden,</hi> he must come forth and be examined indited, convicted, adjudged: <hi>He that getteth up out of the pit, shal fall into the snare; he fleeth from a Lion, and a Beare meeteth him; leaneth his hand on the wall, and a Serpent bi<g ref="char:EOLhyphen"/>teth him.</hi> Thou mayest escape six dangers, and the seventh shall seize upon thee, as <hi>London,</hi> and other places yet have done:) But the Lord said; <hi>It shall come to passe, that him that esca<g ref="char:EOLhyphen"/>peth from the Sword of Hazaell, him shall Jehu slay: &amp; him that ascapeth the Sword of Jehu, shall Elisha slay.</hi> Also note what the Prophet <hi>Jeremiah</hi> doth say: <hi>Cast them out of my sight, and let them depart; and if they aske whither shall we depart? say, such as are appointed unto death, unto death; and such as are for the sword to the sword; and such as are for the famine, to the famine; and such as are for the captivity, to the captivity.</hi>
+            </p>
+            <pb n="10" facs="tcp:172293:7"/>
+            <p> Let us but observe how fickle the state of king<g ref="char:EOLhyphen"/>domes and Monarchs are as well as small ter<g ref="char:EOLhyphen"/>ritories: Can a man be safe in his Cabin, when the whole ship is drown'd under water? All mens estates are ventured in this great vessell called the Earth, which was once swallowed up in a deluge of water, and shall (ere it be long) with a deluge of fire. If our State hath received any wound or the Church any blow, we know where to lay the blame; we may say with mournfull <hi>Jerusalem, The Lord is righteous, but we have rebelled against him; God hath been good to us, but we unthankfull to him, Lam. 1.18.</hi>
+            </p>
+            <p>Let not the Devill deceive, in making thee imagine or hope to please God, and yet to let thy corruptions lye unseen, and thy sinnes unsear<g ref="char:EOLhyphen"/>ched out, lest thereby thou mar all; For none useth to lay up Wheat in their Garners untill it be purged from the Chaffe: so think not to store up any saving knowledge, or any other grace of God in thy heart, untill the chaffe of vanity be first blown away, that so the holy graces of God may be laid up in the Garners of thy soule. Re<g ref="char:EOLhyphen"/>member Christ Parable of Tares and Wheat: <hi>Let both grow together untill the Harvest, and in the time of harvest. I will say to the reapers, Gather ye together, first the Tares, and binde them in bundles to burne them; but gather the Wheat into my barne, <hi>Mat.</hi> 13.30.</hi>
+            </p>
+            <pb n="11" facs="tcp:172293:7"/>
+            <p> Therefore, O wretched <hi>England</hi> bewaile for thy transgressions and if God punish us, we our selves are the cause that forceth him to doe it; God inflicteth stripes, but we deserve them; God striketh, but we provoke him to it; God powreth out the Vials of his wrath, but it is we that fill them up to the brim, by our over<g ref="char:EOLhyphen"/>flowing iniquities: If we were not unjust in transgressing, God would not be just in punish<g ref="char:EOLhyphen"/>ing; <hi>For he delighteth in mercy, and good<g ref="char:EOLhyphen"/>nesse is his Nature, Micah. 7.18.</hi>
+            </p>
+            <p>O then, let every one of us make a diligent search into his owne bosome, and judge himself, lest he be judged of the Lord: Let us rip up that body of sin which is within us, not only that na<g ref="char:EOLhyphen"/>turall corruption, which we have all alike suc<g ref="char:EOLhyphen"/>cessively received from our first Parents, but also those personall transgressions which every man hath made himselfe guilty of. Then having faithfully laid open our sinfulnesse, let us looke on it with a loathing eye and lamentable heart, <hi>For an humble and contrite heart, O Lord thou shalt not despise.</hi> And the Lord said <hi>Call upon me in the day of trouble, I will deliver thee, and thou shalt glorifie me.</hi>
+            </p>
+            <p>Therefore let us goe with faith in the blood of Iesus Christ to the Throne of grace imploring mercy at the hands of our heavenly Father who is ready and willing to imbrace with the armes
+<pb n="12" facs="tcp:172293:8"/>of his mercy, all such petitioning him for grace in the name of his Sonne.</p>
+            <p>And now (O <hi>England,</hi> Cities, Townes and private Families) let us for the time following, entertaine this setled resolution in<g ref="char:EOLhyphen"/>to our hearts, faithfully to labour in the refor<g ref="char:EOLhyphen"/>mation of those sinnes we have committed, by hearty repentance: and that wee may crowne our holy resolutions, and putting them into action, <hi>By bringing forth fruit wort by amend<g ref="char:EOLhyphen"/>ment of life: Luke, 3.8.</hi> for true Repentance is the gift of God.</p>
+            <p>Let us therefore even now, while it is to day, begin to work our salvation, with feare and trembling, and unfeignedly repent and call up<g ref="char:EOLhyphen"/>on God for mercy: for we have spent our time past upon the lusts of our owne hearts, in brin<g ref="char:EOLhyphen"/>ging forth the corrupt fruit of the flesh; in drun<g ref="char:EOLhyphen"/>kennesse in swearing, in prophanenesse, in pride, in uncleanenesse, and all other abbominable transgressions, which are loathsome to be nomi<g ref="char:EOLhyphen"/>nated. Therefore let us now walk in newnesse of life, lest the Lord doe suddenly, before wee doe so much as dream of it, <hi>hew us downe and cast us into the fire. Luke, 3.9.</hi>
+            </p>
+            <p>And for that wee are all members of the mi<g ref="char:EOLhyphen"/>sticall Body of Christ Iesus, we doe humbly make our requests unto thee, O heavenly Fa<g ref="char:EOLhyphen"/>ther, both for our owne miserable selves at
+<pb n="13" facs="tcp:172293:8"/>this present, and all others, as are afflicted with any kind of crosse or tribulation, as Warre, Plague. Famine, Sicknesse, Poverty, Impri<g ref="char:EOLhyphen"/>sonment, Persecution, Banishment, or any o<g ref="char:EOLhyphen"/>ther of thy Scourges or Roddes; Whether it be griefe of Body, or unquietnesse of Mind: and that it would please thee to give us and them patience and constancie, till thou send a full deliverance out of all our griefes and troubles, add so at length bring us to eternall blisse.</p>
+            <p>Then heare what good comfort our blessed Saviour Christ promiseth, if we repent us of our sinnes.</p>
+            <p>
+               <hi>Come unto me all that are weary and heavy Laden, and I will ease you. I came not to call the Righteous, but Sinners to Repentance. The Sonne of Man came not to destroy, but to save. Mar. 2.17.</hi>
+            </p>
+            <p>
+               <hi>Come ye blessed of my Father, possesse the Kingdome prepared for you, before the foun<g ref="char:EOLhyphen"/>dation of the World was laid. Mat. 25.34.</hi>
+            </p>
+            <p>These are Heavenly comforts for such as have forsaken their wickednesse, and turne unto the Lord, <hi>That when the chiefe Shepheard shall appeare, you shall receive a Crowne of Glory that fadeth not away. 1. Pet. 5.4.</hi>
+            </p>
+            <pb n="14" facs="tcp:172293:9"/>
+            <p> Which, O dear Father of mercy, and God of all Consolation grant, for the merit of IE<g ref="char:EOLhyphen"/>SUS CHRIST, To whom with the Father, and the Blessed Spirit, be ren<g ref="char:EOLhyphen"/>dred all glory, praise, and thanks<g ref="char:EOLhyphen"/>giving now and for ever.</p>
+            <closer>AMEN.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur,</hi> Jo. Downeham.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
